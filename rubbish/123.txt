@@ -1,0 +1,4 @@
+1、复制文件：cp main.c /home/liaozhiwen/123/
+2、复制目录：cp -r ~/filename  /home/liaozhiwen/123
+3、移动文件：mv main.c /home/liaozhiwen/123
+4、移动目录：mv /home 

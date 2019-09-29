@@ -1,0 +1,7 @@
+192.168.145.2
+cd  /etc/sysconfig/network-scripts/
+vi /etc/sysconfig/network-scripts/ifcfg-ens33
+
+202.101.224.69
+http://mirrors.163.com/centos/7/os/x86_64/Packages/yum-3.4.3-163.el7.centos.noarch.rpm
+https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.18.0.tar.xz

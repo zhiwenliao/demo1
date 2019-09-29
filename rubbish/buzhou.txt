@@ -1,0 +1,8 @@
+git init
+git status
+git add 
+git commit -m ""
+git remote add origin htttps://
+git push -u origin master
+git pull --rebase origin master
+git push -u origin master
